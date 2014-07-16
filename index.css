@@ -1,0 +1,35 @@
+#D43F3F // red
+#6A9A1F // green
+#00ACE9 // blue
+#F6F6E8 // white
+#404040 // grey
+{}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #00ACE9;
+}
+
+#container {
+  margin: 0 auto;
+  width: 400px;
+  height: 600px;
+}
+
+#title {
+  height: 100px;
+  font-size: 50px;
+  padding: 20px;
+  background-color: #404040;
+  color: #9AcA4F;
+  text-align: center;
+}
+
+#canvas {
+  height: 500px;
+  width: 400px;
+  background-color: #F6F6E8;
+}
